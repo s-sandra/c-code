@@ -1,6 +1,6 @@
 # Name Surfer
 ## Description
-This program allows users to search for a specific name and display a visual representation of its popularity throughout the decades. 
+This console program allows users to search for a specific name and display a visual representation of its popularity throughout the decades. 
 It creates a linked list of the top 1000 baby names in the United States over the past century (1900 to 2010), using a text file 
 containing data collected by the Social Security Administration.
 
