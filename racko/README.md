@@ -1,6 +1,6 @@
 # Rack-O
 ## Description
-This program implements a variant of the card game Rack-O, where the user plays against an AI algorithm, with the goal of being the first to
+This console program implements a variant of the card game Rack-O, where the user plays against an AI algorithm, with the goal of being the first to
 order their “rack” of numbered cards through substitution. The implementation uses arrays to store and manipulate racks and decks. 
 
 ## Rules
